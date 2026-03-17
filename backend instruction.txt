@@ -1,0 +1,106 @@
+backend development
+
+fullStack development
+1. Frontend development (HTML, CSS, JAVASCRIPT)
+2. Backend development (To store information)
+3. DevOps.
+
+website
+1. Ecommerce website
+
+
+Client ----------------> Server
+Chrome ----------------> Server + Database
+
+what is database?
+Database are some software which store information permanently.
+
+Types of databases
+1. SQL databases
+	Structured query language
+	
+	eg. MySQL, Postgres, SQL server, MS Access, Oracle, Sybase, Informix 
+		
+2. NoSQL databases
+
+
+for more information go to
+http://w3schools.com
+
+
+Piyush---------------> Database
+
+Stored
+
+Piyush -----------------> Shubham
+
+Stored
+Manupulate
+
+
+Structured query language
+
+CRUD Operations
+1. C = Create
+2. R = Read
+3. U = Update
+4. D = Delete
+
+
+
+We want to learn backend development/ Backend eng..
+1. Database
+	1.1 SQL Based Database
+		1.1.1 MySQL
+		1.1.2 Postgress
+	1.2 NoSQL Based database
+		1.2.1 MongoDB
+2. Programming Language
+	2.1 JavaScript ------> NodeJs	
+	2.2 Python
+	2.3 Java
+	2.4 DotNet
+	2.5 PHP
+
+You need to install SQL software on your laptop/Machine
+
+Database (MySQL + SQL)
+
+1. XAMPP
+2. Open xampp control panel
+3. Turn on "MySQL service"
+4. Open shell
+5. Give command on Terminal
+
+	#MySQL	-u	 user		password
+	#mysql  -u 	 root    	-p
+	#cmd   -flag1	-flagValue	-flag2
+	#cmd	agr1	 arg1Value	-arg2
+
+
+Where you store your information?
+Database
+
+Database --> Tables --> Data
+
+Piyush ---------------> Database 
+
+Database 
+	Table
+		Data
+
+Show all available Databases?
+SQL command?
+
+Show database;
+
+; --> semicolon
+: --> colon
+
+How to create your own database?
+create database databaseName;
+create database a_db;
+create database b_db;
+
+assignment
+create database a_db to a_
