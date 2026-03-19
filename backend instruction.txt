@@ -104,3 +104,24 @@ create database b_db;
 
 assignment
 create database a_db to a_
+
+I want to store some information in a database?
+1. Create database
+	1.1 create database e_db;
+2. Go inside the database
+	2.1 use <databaseName>;
+3. Create table
+	3.1 check how many tables are there?
+		show tables;
+	3.2 create table
+		create table students_tbl (
+
+4. describe table structure
+	4.1 describe <tableName>
+	4.2 desc <tableName>
+	4.3 explain <tableName>
+
+5. Insert data
+	5.1 insert into <tableName> () values ();
+6. Show the inserted data
+	select 
